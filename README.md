@@ -11,12 +11,8 @@ The exam includes 3 tasks to be done: [Calculator](/tasks/Calculator.md), [Pyram
 
 ### Result ###
 
-* Author name : {PUT YOUR NAME HERE}
-* Codeship : {PUT YOUR CODESHIP BAGDE HERE}
-
-Example of Codeship badge. Please remove the example before you send us the link. 
-[ ![Codeship Status for tschool/javaschoolexam](https://app.codeship.com/projects/72551e30-96ab-0138-7109-12b678f74880/status?branch=master)](https://app.codeship.com/projects/72551e30-96ab-0138-7109-12b678f74880)
-
+* Author name : Sergey Aminov
+* Codeship : [ ![Codeship Status for tschool/javaschoolexam](https://app.codeship.com/projects/72551e30-96ab-0138-7109-12b678f74880/status?branch=master)](https://app.codeship.com/projects/72551e30-96ab-0138-7109-12b678f74880)
 
 ### How to start?  ###
 * Install [GIT](https://git-scm.com/) and [Maven](https://maven.apache.org)
